@@ -6,9 +6,8 @@
 
 ###
  🥶 I´m here, Canix, <br>
- :zap: Learnign (Kind-off) programming since 2022.<br>
- :speech_balloon: Driving MERN projects to success.
-###
+ :zap: Learning (Kind-off) programming since 2022.<br>
+ :speech_balloon: Trying really hard to be a software developer and learn a few things.
 ## I code with
 <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
